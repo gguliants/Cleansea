@@ -1,6 +1,6 @@
 # Cleansea CNN Model (Read below)
 
-Our CNN model for the Cleansea Mobile App. It classifies four of the most common and critical types of trash, debris, etc. from the TACO Custom dataset, which we adapted from the original Taco dataset.<br>
+Our CNN model for the Cleansea Mobile App. It classifies four of the most common and critical types of trash, debris, etc. from the TACO Custom dataset, which we adapted from the original Taco dataset. This original Taco dataset was created for object detection, so we modified it to be used for classification. See original Taco dataset here: http://tacodataset.org/ <br>
 
 *Model and adapted dataset were developed by Julia Huang from Team cloud9.
 
