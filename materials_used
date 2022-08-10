@@ -1,8 +1,9 @@
-<b>Materials Used to Create Dataset</b>
+Materials Used to Create Taco Custom Dataset:
 Google Drive
 Kaggle
+Original Taco Dataset
 
-<br> Materials Used to Create and Train Model
+Materials Used to Create and Train Model:
 Python 3.7.13
 Keras and TensorFlow 2.0
 Google Colab Pro Plus
