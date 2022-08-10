@@ -1,3 +1,8 @@
-Materials Used to Train
+<br> Materials Used to Create Dataset
+Google Drive
+Kaggle
+
+<br> Materials Used to Create and Train Model
 Python 3.7.13
+Keras and TensorFlow 2.0
 Google Colab Pro Plus
