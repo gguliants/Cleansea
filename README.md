@@ -4,6 +4,6 @@ Our CNN model for the Cleansea Mobile App. It classifies four of the most common
 
 *Model and adapted dataset were developed by Julia Huang from Team cloud9.
 
-#What's In This Repository:
+# What's In This Repository:
 <li> Materials Used to Develop Dataset + Model </li>
 <li> Model Architecture </li>
