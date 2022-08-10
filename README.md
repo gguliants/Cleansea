@@ -6,9 +6,11 @@ Our CNN model for the Cleansea Mobile App. It classifies four of the most common
 
 # What's In This Repository:
 <li> Materials Used to Develop Dataset + Model </li>
+<li> Our Dataset We Used (see below) </li>
 <li> Model Architecture </li>
 <li> Model Code (2 Google Colab Notebook versions in surreal_version folder) :)</li>
 <li> Saved Model in .h5 format for easy mobile app deployment, such as using Flutter </li>
+<li> Cleansea App User Journey Diagram  </li>
 
 # About Our Taco Custom Dataset
 TACO Custom dataset link: https://drive.google.com/drive/folders/1MMX_i6e6GTondUnDtLiPjdbqegihMAVU?usp=sharing <br>
