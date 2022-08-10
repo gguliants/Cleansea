@@ -5,5 +5,5 @@ Original Taco Dataset
 
 Materials Used to Create and Train Model:
 Python 3.7.13
-Keras and TensorFlow 2.0
+TensorFlow 2.8.2
 Google Colab Pro Plus
