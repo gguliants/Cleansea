@@ -19,7 +19,8 @@ includes process from dataset loading, processing, to model training (also linke
 https://colab.research.google.com/drive/14dzlJOXXuSqTsd5M4WJco5ubBpb7OxO_?usp=sharing
 
 # About Our Taco Custom Dataset
-TACO Custom dataset link: https://drive.google.com/drive/folders/1MMX_i6e6GTondUnDtLiPjdbqegihMAVU?usp=sharing <br>
+TACO Custom dataset in Google Drive: https://drive.google.com/drive/folders/1MMX_i6e6GTondUnDtLiPjdbqegihMAVU?usp=sharing <br>
+TACO Custom dataset published on Kaggle: https://www.kaggle.com/datasets/julesh7/taco-dataset-revised-230-imgs <br>
 To create this dataset, I labeled images of 4 important debris types and placed them in four folders - cans, bottles, plastics, containers. Images were resized and rescaled to match our tasks.
 
 # Canva Slides Presentation for Cleansea ML Mobile App
