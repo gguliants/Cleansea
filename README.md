@@ -12,6 +12,7 @@ Our CNN model for the Cleansea Mobile App. It classifies four of the most common
 <li> Model Code (2 Google Colab Notebook versions in surreal_version folder) :)</li>
 <li> Saved Model in .h5 format for easy mobile app deployment, such as using Flutter </li>
 <li> Cleansea App User Journey Diagram  </li>
+<li> Machine Learning Process Flow Diagram  </li>
 
 # Our Google Colab Notebook
 includes process from dataset loading, processing, to model training (also linked in this github repo)
