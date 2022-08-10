@@ -7,4 +7,6 @@ Our CNN model for the Cleansea Mobile App. It classifies four of the most common
 # What's In This Repository:
 <li> Materials Used to Develop Dataset + Model </li>
 <li> Model Architecture </li>
-MODEL .h5 VERSION FILE
+<li> Model Code </li>
+<li> Saved Model in .h5 format for easy mobile app deployment, such as using Flutter </li>
+
