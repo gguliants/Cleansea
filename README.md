@@ -16,3 +16,5 @@ Our CNN model for the Cleansea Mobile App. It classifies four of the most common
 TACO Custom dataset link: https://drive.google.com/drive/folders/1MMX_i6e6GTondUnDtLiPjdbqegihMAVU?usp=sharing <br>
 To create this dataset, I labeled images of 4 important debris types and placed them in four folders - cans, bottles, plastics, containers. Images were resized and rescaled to match our tasks.
 
+#Canva Slides Presentation for Cleansea ML Mobile App
+https://www.canva.com/design/DAFIGOsvodM/QWxmbrADZLBg_JPwwZjQmg/view?utm_content=DAFIGOsvodM&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
