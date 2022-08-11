@@ -1,6 +1,6 @@
 # Cleansea CNN Model (Read below)
 
-Our CNN model for the Cleansea Mobile App. It classifies four of the most common and critical types of trash, debris, etc. from the TACO Custom dataset, which we adapted from the original Taco dataset. This original Taco dataset was created for object detection, so we modified it to be used for classification. See original Taco dataset here: http://tacodataset.org/ <br>
+Our CNN model for the Cleansea Mobile App. It classifies four of the most common and critical types of trash, debris, etc. from the TACO Custom dataset, which we adapted/sourced from the original Taco dataset. This original Taco dataset was created for object detection, so we modified it to be used for classification. See original Taco dataset here: http://tacodataset.org/ <br>
 
 *Model and adapted dataset were developed by Julia Huang and mobile app was developed by Arushi Gupta from Team cloud9 - Deep Learning Track.
 
@@ -21,7 +21,8 @@ https://colab.research.google.com/drive/14dzlJOXXuSqTsd5M4WJco5ubBpb7OxO_?usp=sh
 # About Our Taco Custom Dataset
 TACO Custom dataset in Google Drive: https://drive.google.com/drive/folders/1MMX_i6e6GTondUnDtLiPjdbqegihMAVU?usp=sharing <br>
 TACO Custom dataset published on Kaggle: https://www.kaggle.com/datasets/julesh7/taco-dataset-revised-230-imgs <br>
-To create this dataset, I labeled images of 4 important debris types and placed them in four folders - cans, bottles, plastics, containers. Images were resized and rescaled to match our tasks.
+To create this dataset, I labeled images of 4 important debris types and placed original TACO dataset files into four folders - cans, bottles, plastics, containers. Images were resized and rescaled to match our tasks. In addition, we performed data cleaning due to noisy images and images that contained two classes.
+Note: there are not many publicly available ocean debris datasets - the most comprehensive one we could find was TACO.
 
 # Canva Slides Presentation for Cleansea ML Mobile App
 https://www.canva.com/design/DAFIGOsvodM/QWxmbrADZLBg_JPwwZjQmg/view?utm_content=DAFIGOsvodM&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
