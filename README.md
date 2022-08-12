@@ -12,7 +12,7 @@ Our Cleansea Model was trained and optimized to reach >95% accuracy consistently
 <li> Model Architecture </li>
 <li> Model Classification Results </li>
 <li> Model Code (2 Google Colab Notebook versions in surreal_version folder) :)</li>
-<li> Saved Model in .h5 format for easy mobile app deployment, such as using Flutter </li>
+<li> Saved Model in .h5 format (only 500K parameters!) - lightweight enough for easy mobile app deployment, such as using Flutter </li>
 <li> Cleansea App User Journey Diagram  </li>
 <li> Machine Learning Process Flow Diagram  </li>
 
