@@ -1,8 +1,8 @@
 # Cleansea CNN Model (Read below)
 
-Our CNN model for the Cleansea Mobile App. It classifies four of the most common and critical types of trash, debris, etc. from the TACO Custom dataset, which we adapted/sourced from the original Taco dataset. This original Taco dataset was created for object detection, so we modified it to be used for classification. See original Taco dataset here: http://tacodataset.org/ <br>
+Our CNN model for the Cleansea Mobile App. It classifies four of the most common and critical types of trash, debris, etc. from the TACO Custom dataset, which we adapted/sourced from the original Taco dataset. This original Taco dataset was created for object detection, so we modified it to be used for classification. See original Taco dataset (1.6K images) here: http://tacodataset.org/ <br>
 
-Our Cleansea Model was trained and optimized to reach >95% accuracy consistently on Taco Custom 1.0 and ~90% accuracy consistently on Taco Custom 2.0 (bigger dataset).
+Our Cleansea Model was trained and optimized to reach >95% accuracy consistently on Taco Custom 1.0 and ~90% accuracy consistently on Taco Custom 2.0 (bigger dataset). Of course, due to the time-consuming work of relabeling data and adding augmentations to increase dataset size, our custom Taco datasets are smaller than the original Taco dataset.
 
 *Model and adapted dataset were developed by Julia Huang and mobile app was developed by Arushi Gupta from Team cloud9 - Deep Learning Track.
 
