@@ -27,7 +27,7 @@ TACO Custom 2.0 dataset in Google Drive: [https://drive.google.com/drive/folders
 TACO Custom 2.0 dataset published on Kaggle: [https://www.kaggle.com/datasets/julesh7/taco-dataset-revised-922-imgs](https://www.kaggle.com/datasets/julesh7/taco-dataset-revised-922-imgs) <br>
 
 
-To create these 2 datasets, I labeled images of 4 important debris types and placed original TACO dataset files into four folders - cans, bottles, plastics, containers. Images were resized and rescaled to match our tasks. In addition, we performed data cleaning due to noisy images and images that contained two classes.
+To create these 2 datasets, I labeled images of 4 important debris types and placed original TACO dataset files into four folders - cans, bottles, plastics, containers. Images were resized and rescaled to match our tasks. In addition, we performed data cleaning due to noisy images and images that contained two classes. Further, we performed data augmentations such as rotations to increase amount of data.
 Note: there are not many publicly available ocean debris datasets - the most comprehensive one we could find was TACO.
 
 # Canva Slides Presentation for Cleansea ML Mobile App
