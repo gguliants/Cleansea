@@ -21,9 +21,9 @@ includes process from dataset loading, processing, to model training (also linke
 https://colab.research.google.com/drive/14dzlJOXXuSqTsd5M4WJco5ubBpb7OxO_?usp=sharing
 
 # About Our Taco Custom Dataset (version 1.0 and 2.0)
-TACO Custom dataset in Google Drive: https://drive.google.com/drive/folders/1MMX_i6e6GTondUnDtLiPjdbqegihMAVU?usp=sharing <br>
+
 TACO Custom dataset published on Kaggle: https://www.kaggle.com/datasets/julesh7/taco-dataset-revised-230-imgs <br>
-TACO Custom 2.0 dataset in Google Drive: [https://drive.google.com/drive/folders/1MMX_i6e6GTondUnDtLiPjdbqegihMAVU?usp=sharing](https://drive.google.com/drive/folders/1tk_5IRaRoEP2BY9vrjVV9yZKpxQ3w9jL?usp=sharing) <br>
+(https://drive.google.com/drive/folders/1tk_5IRaRoEP2BY9vrjVV9yZKpxQ3w9jL?usp=sharing) <br>
 TACO Custom 2.0 dataset published on Kaggle: [https://www.kaggle.com/datasets/julesh7/taco-dataset-revised-922-imgs](https://www.kaggle.com/datasets/julesh7/taco-dataset-revised-922-imgs) <br>
 
 
