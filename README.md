@@ -1,6 +1,6 @@
 # Cleansea CNN Model: 95% Accuracy
 
-Cleansea classifies four of the most common types of trash from the TACO Custom dataset, which was sourced from the original Taco dataset. See original Taco dataset (1.6K images) here: http://tacodataset.org/ <br>
+Cleansea classifies four of the most common types of trash from the TACO Custom dataset, which was sourced from the original TACO dataset. See original Taco dataset (1.6K images) here: http://tacodataset.org/ <br>
 
 # Repository Contents
 <li> Materials Used to Develop Dataset + Model </li>
